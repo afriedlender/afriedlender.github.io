@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! Welcome to my Blog! My name is Adriel, and I' currently a 4th year at UCLA. This blog was created as part of a programming course, PIC16B "Applications in Python II". Feel free to follow along as I undertake this exciting Python journey :)
 
+<!--- 
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
+--> 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[adriel.friedlender@gmail.com](mailto:adriel.friedlender@gmail.com)
