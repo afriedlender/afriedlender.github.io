@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! Welcome to my Blog! My name is Adriel, and I' currently a 4th year at UCLA. This blog was created as part of a programming course, PIC16B "Applications in Python II". Feel free to follow along as I undertake this exciting Python journey :)
+Hi! Welcome to my Blog! My name is Adriel, and I' currently a 4th year at UCLA. This blog was created as part of a programming course, PIC16B "Python with Applications II". Feel free to follow along as I undertake this exciting Python journey :)
 
 <!--- 
 ### More Information
